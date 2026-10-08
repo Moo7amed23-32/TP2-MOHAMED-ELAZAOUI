@@ -15,6 +15,7 @@
      plusieurs ligneS*/
        ?>
     <?= "Je suis triste"  ?>
+    <br><br><br><button> <a href="index.php">Retour</a></button>
   
 </body>
 </html> 
