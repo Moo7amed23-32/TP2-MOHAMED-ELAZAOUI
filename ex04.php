@@ -38,9 +38,42 @@ $v6 = null;
 
     echo "<p>v6: ";
     var_dump($v6);
+    echo "</p><br><br>";
+
+
+   echo"==================================<br><br>";
+
+    echo"<p>v1: ";
+    var_dump((string)$v1);
     echo "</p>";
 
+    echo "<p>v2: ";
+    var_dump((int)$v2);
+    echo "</p>";
+
+    echo "<p>v3: ";
+    var_dump((int)$v3);
+    echo "</p>";
+
+    echo "<p>v4: ";
+    var_dump((bool)$v4);
+    echo "</p>";
+
+    echo "<p>v5: ";
+    var_dump((bool)$v5);
+    echo "</p>";
+
+    echo "<p>v6: ";
+    var_dump($v6);
+    echo "</p>";
+
+echo"==================================<br><br>";
+
+    echo"$v4<br>";
+    echo"$v6<br>";
+ 
     ?>
+
     </pre>
 </body>
 </html>
